@@ -1,0 +1,10 @@
+In my Final Project, I have to compute a text program using NLP. NLP stands for Natural Language Processing and is a branch of linguistics that allows to build 
+language like speech and text by software. The most important program that helps NLP is Microsoft Foundation Class, which is a C++ object oriented library that 
+allows to run programs using Win32 and COM APIs. Finally, another essential part of this project is Microsoft ML.NET, which is an open-source and cross-platform machine 
+learning framework that allows to build projects using C++ made by Microsoft for the .NET developer platform. By using those applications, I was able to run the project 
+successfully and accomplish what I needed to do.
+
+References
+https://machinelearningmastery.com/natural-language-processing/
+https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-160
+https://dotnet.microsoft.com/learn/ml-dotnet/what-is-mldotnet
