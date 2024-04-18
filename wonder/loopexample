@@ -1,0 +1,4 @@
+var todosLength = todos.length;
+ for (var i=0; i < todos.length; i++) {
+	todos.pop();
+ }
